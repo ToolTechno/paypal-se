@@ -4,3 +4,4 @@ emmauel
 kim
 joseph
 jim
+.net applications
